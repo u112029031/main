@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<title>
+	志哥的小天地 社群連結
+	</title>
+</head>
+<body>
+
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+
+	
+			<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+			
+			
+			
+		</tr>
+	</table>
+
+
+		
+		
+
+	
+
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		社群連結
+		</span><br> <br>
+ 
+	
+  
+	 	
+       
+	
+
+
+        <span style="border:2px ;font-size:20px;background-color:	PeachPuff;">
+	   	
+        以下為我的社群連結資料，我很榮幸有這個緣分跟您聊天！ </span>
+        <br><br>
+        
+  
+  
+  
+  
+  
+  <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;">  <br>
+ <img src="link/111.jpg" alt="My test image" align="center">    <br>
+  電子信箱
+  
+        <br> <a href="mailto:grayson930924@gmail.com">
+  寄信給grayson930924@gmail.com
+</a><br><br>
+  </span>
+  <br>
+  <br>
+  <br>
+  
+  
+  
+  
+   <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;"> <br>
+ <img src="link/222.jpg" alt="My test image" align="center">    <br>
+ Facebook
+  
+        <br> <a href="https://www.facebook.com/profile.php?id=100008145767035">
+  Facebook-陳冠志
+</a><br><br>
+  </span>
+  <br>
+  <br>
+  <br>
+  
+  
+  
+  <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;"> <br>
+<img src="link/333.jpg" alt="My test image" align="center"> 
+   <br>
+ Instagram
+  
+        <br> <a href="https://www.instagram.com/zhi_930924/">
+  Instagram-zhi_930924
+</a><br><br>
+  </span>
+  <br>
+  <br>
+  <br>
+  
+  
+  <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;">  <br>
+<img src="link/555.jpg" alt="My test image" align="center"> 
+
+   <br>
+ Line
+  
+      <p>Line ID:grayson930924</p> <br> 
+  </span>
+  <br>
+  <br>
+  <br>
+  
+       
+       <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;"> <br>
+<img src="link/444.jpg" alt="My test image" align="center">    <br>
+ 	  Youtube頻道-個人（高中拍攝的影片）
+
+  
+        <br> <a href="https://www.youtube.com/channel/UCHF7zNl-0Xiv5z38xJs45iQ">
+  Youtube-陳冠志
+</a><br><br>
+  </span>
+  <br>
+  <br>
+  <br>
+  
+  
+  
+   <span style="text-align:center; display:block;font-size:20px;background-color:	PeachPuff;">  <br>
+<img src="link/444.jpg" alt="My test image" align="center">    <br>
+	  Youtube頻道-志哥的日常（國中拍攝的影片）
+
+  
+        <br> <a href="https://www.youtube.com/channel/UCHF7zNl-0Xiv5z38xJs45iQ">
+  Youtube-志哥的日常
+</a>
+<br><br>
+  </span>
+  <br>
+  <br>
+ 
+       
+       
+       
+
+
+
+
+
+        
+        
+        
+        
+        
+      
+   
+        	
+
+        
+      
+        
+         
+
+</body>
+</html>
+

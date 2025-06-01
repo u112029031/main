@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+   
+	<title>
+	志哥的小天地 技職證照
+	</title>
+</head>
+<body>
+
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+
+	<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+		</tr>
+	</table>
+
+
+		
+		
+
+	
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		技職證照
+		</span><br> <br>
+ 
+	
+
+	
+
+
+        <span style="border:2px ;font-size:20px;background-color:	Lavender;">
+		高職生在就讀高職期間，有一項最重要的事，<br><br>
+        沒錯，那就是考取各種的證照了！<br><br>
+        以我們商管群來說最重要的就是會計丙級，<br><br>
+        而我們商經科還多了門市服務丙級的證照！<br><hr>
+		</span>
+<img src="license/001.JPG" alt="My test image" align="right">  <br> 
+        
+       
+
+        
+        <span style="border:2px ;font-size:30px;background-color:pink;">
+		會計事務丙級-人工及資訊
+		</span><br> <br> <br> 
+        
+	<span style="border:0px ;font-size:20px;background-color:	Chartreuse;">
+		會計丙級證照，在高職校園是很盛行的一張證照，<br> <br> <br> 
+        也是不少學校所制定的畢業門檻，<br> <br> <br> 
+        我很謝謝高一教我們會計的亭妤老師，<br> <br> <br> 
+        他手把手拉著我們從頭教起，<br> <br> <br> 
+        也因為老師對我們的要求，才讓我得以擁有很扎實的會計基礎，
+		<img src="license/002.JPG" alt="My test image" align="right">
+
+	<br><br> <br> 
+        雖然僅有這張證照仍然無法成為大家口中的-會計師<br> <br> <br> 
+
+  		但是我們可以證明自己是有認真學到會計基礎了，<br> <br> <br> 
+        在日後不管是就業或是對於商業的理解上，都可以有很大的幫助！<br> <br> <br> 
+		</span><br> <br><br><br><br><br>  
+	
+		<hr>
+        
+        
+         <span style="border:2px ;font-size:30px;background-color:pink;">
+	門市服務丙級
+		</span>
+
+<img src="license/003.JPG" alt="My test image" align="right"> 
+<br> <br> <br> 
+
+	<span style="border:0px ;font-size:20px;background-color:
+        Chartreuse;">
+        
+        
+
+		門市服務這張證照，我覺得是餐旅科系跟商管科系的結合！<br> <br><br>
+       
+       門市服務不但教導我們如何禮貌的招待客人，藉此提升顧客關係，<br> <br><br>
+  		同時成本的計算、進出貨的數量、門市清潔以及POS機之操作，<br> <br><br>
+       都是在這門課程可以學習到的，可以說是實用又簡單易懂，<br> <br><br>
+     
+        大學時期許多同學也都有打工的需求，那麼門市服務的證照， <br><br> <br>
+       可以讓你勝過其他競爭對手，贏得這份工作，<br> <br><br>
+       當然對於學商管的我們來說，最重要的核心是「商店的營運」！！<br><br><br>
+       門市服務可以透過實務上的操作，讓我們對經營商店上有更多想法，<br><br><br>
+       如果未來有創業或是當任到商店的店長，都是很幫助的一張證照！<br><br>
+		</span>
+
+        
+
+      
+
+</body>
+</html>
+

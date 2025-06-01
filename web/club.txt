@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<title>
+	志哥的小天地 社團經歷
+	</title>
+</head>
+<body>
+
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+
+	
+			<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+		</tr>
+	</table>
+
+
+		
+		
+
+	<img src="club/05.jpg" alt="My test image" align="right">
+	<img src="club/02.jpg" alt="My test image" align="right"> 
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		社團經歷
+		</span><br><br>
+        
+		<span style="border:0px ;font-size:20px;background-color:Gold;">
+		前面說到攝影是自己的興趣，在高中時我參加攝影社，
+		</span><br><br>
+       		 <span style="border:0px ;font-size:20px;background-color:Gold;">
+		到了高二也當任社團幹部，我們也幫學校紀錄
+        <br><br>大型的集會及校慶活動還有各社團活動，
+		</span><br><br>
+        
+          
+		<span style="border:0px ;font-size:20px;background-color:Gold;">
+		我真的很開心也很感謝，這一年來我們夥伴共同的努力，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Gold;">
+		也因為工作的關係，讓我們的感情變得很要好，
+		</span><br><br>
+ 
+        <span style="border:0px ;font-size:20px;background-color:Gold;">
+		能夠跟志同道合的朋友一起做喜歡的事，真的很幸福，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Gold;">
+		謝謝攝影讓我對這世界的美景更大開眼界，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Gold;">
+		也很感謝學長姐願意相信我，給我機會去幫忙學校及其他社團拍攝，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Gold;">
+		當然也謝謝背後在默默支持我們的你們，你是我們前進最大的動力，
+		</span><br><br>
+        
+		<span style="border:0px ;font-size:20px;background-color:Gold;">
+		在這一年的上幹生涯中，光陰似箭、時光飛逝，時間真的過的很快，
+		</span><br><br>
+         
+		<span style="border:0px ;font-size:20px;background-color:Gold;">
+		到現在已經卸下幹部的職位了，交給下一屆學弟了！加油！
+		</span><br><br>
+
+<img src="club/03.jpg" alt="My test image" align="lift">
+<img src="club/01.jpg" alt="My test image" align="right">
+<br>
+<img src="club/07.jpg" alt="My test image" align="lift">
+<img src="club/04.jpg" alt="My test image" align="right">
+	
+
+        
+        
+		
+		
+       
+		
+
+	
+
+
+	
+
+</body>
+</html>

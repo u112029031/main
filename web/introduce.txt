@@ -1,0 +1,121 @@
+
+<!DOCTYPE html><!DOCTYPE html>
+<html>
+
+
+<head>
+   <meta charset="utf-8" >
+    <title>志哥的小天地 自我介紹</title>
+    <style>
+        .happy{
+          width:1250px;
+          margin: 10px ;
+          border:solid 1px gray;
+          overflow: hidden; /* 避免長方框下面顯示不正常 */
+        }
+        .bdcard{
+          width: 120px;
+          float:left; /* 圖片在左邊 */
+          padding: 0px;
+        }
+        .bdcard img{
+          display: block;
+          width:0;
+        }
+        .bdtext{
+          float: right;  /* 文字在右邊 */
+          width: 800px;
+          padding: 0px 0px 0px 0px;
+        }
+    </style>
+	<title>
+	志哥的小天地 自我介紹
+	</title>
+</head>
+<body>
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+	
+
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+	
+			<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+		</tr>
+	</table>
+
+
+		<img src="introduce/me.png" alt="My test image" align="right">
+		
+		
+
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		自我介紹
+		</span><br><br>
+		<span style="border:0px ;font-size:25px;background-color:lightskyblue;">
+		哈摟大家好，我是陳冠志，今年17歲，就讀高雄高商的商業經營科，
+		</span><br><br>
+		
+		<span style="border:0px ;font-size:25px;background-color:lightskyblue;">
+		我的個性活潑、外向，喜歡與人聊天，同時攝影及玩車也是我的興趣，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:25px;background-color:lightskyblue;">
+		然後我也很喜歡去尋找「高CP值」的小吃店，朋友都叫我高雄美食達人，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:25px;background-color:lightskyblue;">
+		還在想今天吃什麼嗎？沒錯！ 找我就對了！！
+		</span><br><br>
+		
+
+		<span style="border:0px ;font-size:25px;background-color:lightskyblue;">
+		我也很希望在這三年來的雄商生涯可以交到許多朋友，跟大家玩在一起！
+		</span><br><br>
+
+
+		
+    <div class="happy">
+        <div class="bdcard">
+       		 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14731.075112125844!2d120.3089536!3d22.625108049999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1655791963740!5m2!1szh-TW!2stw" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      	</div>
+
+ 
+        
+	<div class="bdtext">
+        	
+        		<h2><p>給自己的Hashtag</p><h2>
+       		<h2><u><p>#活潑外向、喜歡社交、完美主義者、富有責任感、忠實車迷、攝影阿伯</p></u><h2>
+		<br><br>
+		<h2><p>座右銘</p><h2>
+		<h2><u><p>不去嘗試永遠不會成功，嘗試過了即使失敗也能累積經驗。</p></u><h2>
+     	</div>
+      	
+    </div>
+
+	
+
+		
+
+		
+		
+
+
+	
+
+</body>
+</html>

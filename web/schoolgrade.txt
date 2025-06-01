@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<title>
+	志哥的小天地 學業成績
+	</title>
+</head>
+<body>
+
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+
+	
+			<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+		</tr>
+	</table>
+
+
+		
+		
+
+		<img src="grade/grade1.png" alt="My test image" align="right">
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		學業成績
+		</span><br><br>
+        
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		進來到高雄高商之後，我發現很多同學都對商業充滿了熱情，
+		</span><br><br>
+		
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		高職的好處就是可以選擇自己喜歡的類群，
+		</span><br><br>
+
+		<img src="grade/grade2.png" alt="My test image" align="right">
+
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		提早學習到大學所學的專業科目，對未來提早做準備，
+		</span><br><br>
+		
+		
+		
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		我在高中的成績大概都是在中上段的名次，
+		</span><br><br>
+		
+
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		我告訴自己，要玩那也要會讀書，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		所以我會分配時間在玩樂及課業，並取得一個能夠平衡的狀態，
+		</span><br><br>
+		
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		自己學了兩年的專業科目了，也確實很喜歡商管類群，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		也希望自己能夠更積極的進取更高的學位，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:mediumspringgreen;">
+		明年就要上統測的戰場了，我必須全力以赴！
+		</span><br><br>
+
+		
+		
+		<table>
+  			<tr>
+			<td>班級</td>
+   			<td>科目</td>
+    		<td>分數</td>
+   		 	<td>班級平均</td>
+ 			</tr>
+  
+				<tr>
+    			<td>商經一1班</td>
+    			<td>國文</td>
+    			<td>69</td>
+    			<td>78.03</td>
+  				</tr>
+				
+                
+                <tr>
+  				<td>商經一1班</td>
+    			<td>英文</td>
+    			<td>83</td>
+    			<td>70.19</td>
+                </tr>
+                
+                <tr>
+                <td>商經一1班</td>
+    			<td>數學</td>
+    			<td>79</td>
+    			<td>70.48</td>
+                </tr>
+                
+                <tr>
+                <td>商經一1班</td>
+    			<td>商業概論</td>
+    			<td>94</td>
+    			<td>79.71</td>
+                </tr>
+                
+                <tr>
+                <td>商經一1班</td>
+    			<td>數位科技概論</td>
+    			<td>95</td>
+    			<td>71.35</td>
+                </tr>
+                
+                <tr>
+                <td>商經一1班</td>
+    			<td>會計學</td>
+    			<td>83</td>
+    			<td>74.48</td>
+                </tr>
+		</table>
+       
+		
+
+	
+
+
+	
+
+</body>
+</html>

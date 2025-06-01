@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<title>
+	志哥的小天地 興趣及專長
+	</title>
+</head>
+<body>
+
+	<body bgcolor="fffff0">
+	
+	<img src="top.jpeg" alt="My test image" align="center">
+
+
+
+	<table border="1px" width="100%" bgcolor="yellow">
+		<tr>
+
+	
+			<td align="center"><a href="../index.html">首頁</td></a>
+			<td align="center"><a href="introduce.html">自我介紹</td></a>
+			<td align="center"><a href="schoolgrade.html">學業成績</td></a>
+			<td align="center"><a href="interests.html">興趣及專長</td></a>
+			<td align="center"><a href="club.html">社團經歷</td></a>
+            		<td align="center"><a href="photography.html">攝影照片</td></a>
+			<td align="center"><a href="study.html">讀書計畫</td></a>
+			<td align="center"><a href="license.html">技職證照</td></a>
+			<td align="center"><a href="future.html">生涯規劃</td></a>
+			<td align="center"><a href="link.html">社群連結</td></a>
+			
+		</tr>
+	</table>
+
+
+		
+		
+
+	
+		<span style="border:2px ;font-size:40px;background-color:pink;">
+		興趣及專長
+		</span>
+ <img src="interests/002.JPG" alt="My test image" align="right"><br><br>
+        
+
+		<span style="border:0px ;font-size:20px;background-color:	Cyan;">
+		說到興趣方面，我自己最喜歡的就是玩車跟攝影了！！
+		</span><br><br>
+       		 <span style="border:0px ;font-size:20px;background-color:	Cyan;">
+		那麼以下將會分別介紹這兩個呦～
+		</span><br><br>
+
+	
+
+		<span style="border:0px ;font-size:27px;background-color:pink;">
+		「玩車」
+		</span><br><br>
+
+		
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		喜歡車最早是因為，從小跟朋友在幼稚園的草地玩兒童腳行車，
+		</span><br><br>
+	
+
+		
+		
+		
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		那時候也很喜歡欣賞馬路上的各種車輛，總是希望自己也可以擁有，
+		</span><br><br>
+	
+
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		從學齡到現在即將成年，我收集過的模型車也是不計其數，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		對男人來說，車不僅是代的工具，它就像男人的生命，也是男人的小老婆，
+		</span><br><br>
+		
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		我們會用最真誠的心對待它，甚至警慎地守護它，深怕它受到任何傷害，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		同時車也代表了一個門面，使我們更體面的去接待他人，
+		</span><br><br>
+
+		<span style="border:0px ;font-size:20px;background-color:Cyan;">
+		在玩車的路上也遇到許多前輩，跟他們聊天的感覺真的很好，
+		</span><br><br>
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		我也很喜歡跟他們交流許多汽車資訊等等......等，
+		</span><br><br>
+
+         <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		也因為我對汽車的熱愛，使我在汽車領域有不少研究。
+		</span><br><br>
+        
+<img src="interests/006.JPG" alt="My test image" align="light">
+
+<img src="interests/003.JPG" alt="My test image" align="right">
+<br><br>
+		<span style="border:0px ;font-size:27px;background-color:pink;">
+		「攝影」
+		</span> <img src="interests/001.JPG" alt="My test image" align="right"><br><br>
+
+       
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		起初國中挑選社團時，因為看到「微電影社」是特殊社團，需要進行徵選的，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		於是我就有了興趣去報名面試，之後我也很幸運的錄取變成社員了，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		當時我被分配的工作是「攝影師」，從那時候開始就打開我對攝影的興趣了，
+		</span><br><br>
+
+        
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		我不但在社課上會幫忙拍攝之外，我還很喜歡利用通勤及假日旅遊的時候，
+		</span><br><br>
+        
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		用手機及相機記錄下這美好的一刻，從那時候開始照片也就成為我最美好的回憶了，
+		</span><br><br>
+         
+         <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		一路到了高中，也一樣保有初衷，加入攝影社，在高二也擔任社團幹部，
+		</span><br><br>
+    
+ 
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		不但可以把自己的經驗傳授給學弟妹們，同時也可以與志同道合的人一起做喜歡的事，
+		</span><br><br>
+    
+        <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		攝影也是我目前為止最實際的興趣及目標了，
+		</span><br><br>
+   
+         <span style="border:0px ;font-size:20px;background-color:Cyan;">
+		希望我未來可以繼續用相機記錄下人生美好的時光！
+		</span><br><br>
+        
+        
+		
+<img src="interests/004.JPG" alt="My test image" align="light">
+
+<img src="interests/007.JPG" alt="My test image" align="right">
+		
+
+	
+
+
+	
+
+</body>
+</html>
